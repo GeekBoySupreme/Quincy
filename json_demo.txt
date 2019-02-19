@@ -1,0 +1,23 @@
+﻿{
+    "name":"shuvam",
+    "x":134,
+    "y":129,
+    
+    "pets":[
+        { "animal":"dog", "name":"Fido" },
+        { "animal":"cat", "name":"Felix" },
+        { "animal":"hamster", "name":"Lightning" }
+    ]
+}
+
+{
+    "name":"adrish",
+    "x":144,
+    "y":229,
+    
+    "pets":[
+        { "animal":"dog", "name":"Fido" },
+        { "animal":"cat", "name":"Felix" },
+        { "animal":"hamster", "name":"Lightning" }
+    ]
+}
